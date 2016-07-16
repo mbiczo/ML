@@ -1,8 +1,6 @@
 .DS_Store
 
-linear_regression/.ipynb_checkpoints/
-classification/.ipynb_checkpoints/
-clustering/.ipynb_checkpoints/
+.ipynb_checkpoints
 
 data/people_wiki.csv
 data/products_word_vector.csv
