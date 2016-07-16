@@ -1,3 +1,6 @@
 linear_regression/.ipynb_checkpoints/
 classification/.ipynb_checkpoints/
 .DS_Store
+data/people_wiki.csv
+data/products_word_vector.csv
+
