@@ -2,6 +2,4 @@
 
 .ipynb_checkpoints
 
-data/people_wiki.csv
-data/products_word_vector.csv
-
+data/*
