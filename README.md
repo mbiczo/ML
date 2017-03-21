@@ -14,7 +14,8 @@ Contains the datasets used in analyses (consider size and different options)
 
   * Logistic
     * Amazon Baby Product Reviews.  Finding similar reviews.  Predicting sentiment.
-    * Lending club data.  Classifying loan quality.  Predicting which loans would default. 
+    * Lending club data.  Classifying loan quality.  Predicting which loans would default.
+    * notMNIST data.  Classifying digital images of letters A - J in varoius styles.
   * Decison Trees
     * Lending club data.  Classifying loan quality.  Predicting which loans would default.
   * Random Forest
@@ -32,6 +33,5 @@ Contains the datasets used in analyses (consider size and different options)
 # Future Work
 
   * Add more clustering algorithms
-  * Add classification model for basic image recognition
   * Add SVM example
   * Add ANN basic model
