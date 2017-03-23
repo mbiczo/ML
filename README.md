@@ -1,9 +1,15 @@
-# ML
-Some basic models taken from various examples to learn from.
+# DS
+Some basic models taken from various examples to learn from.  Includes basic data analysis along with a few basic machine learning models.
 
 ## Data
 
 Contains the datasets used in analyses (consider size and different options)
+
+## Analysis
+
+Contains basic analysis projects and learning ideas
+
+  * US Baby Name Analysis - data from SS.gov
 
 ## Regression
 
